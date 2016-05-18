@@ -1,0 +1,8 @@
+Package: within
+Title: Within
+Version: 0.0.0.9000
+Authors@R: person("Alexander", "Griffith", email="griffitaj@gmail.com", role = c("aut", "cre"))
+Description: Test if values in list A fall between two values in list B and C.
+Depends: R (>= 3.1.1)
+License: BSD 3 clause
+LazyData: true
